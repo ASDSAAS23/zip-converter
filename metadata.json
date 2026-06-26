@@ -1,0 +1,6 @@
+{
+  "name": "Zip to PDF Converter",
+  "description": "Extract images from a ZIP archive and merge them into a single, high-quality, multi-page PDF document entirely in your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
